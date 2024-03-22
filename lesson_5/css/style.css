@@ -123,8 +123,7 @@
 	width: 40%;
 	padding: 0 10px;
 }
-.sideblock-definition {
-}
+
 .sideblock-definition__header {
 	/* width: 100%; */
 	min-height: 100px;
@@ -155,11 +154,6 @@
 	margin-bottom: 0;
 }
 
-
-.definition__mainblock {
-
-}
-
 .mainblock-definition {
 	vertical-align: top;
 	font-size: 16px;
@@ -173,7 +167,7 @@
 	background-color: rgb(18, 140, 18);
 	height: 100%;
 	padding:  38px 25px 0 ;
-	/* overflow: auto; */
+	overflow: auto;
 }
 
 .mainblock-definition__title {
@@ -227,7 +221,6 @@
 	height: 100%;
 	background-color: #fff;
 }
-
 
 .general-block-indents__block_2 .examples__inside-block {
 	background-color: black;
