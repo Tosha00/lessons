@@ -1,0 +1,8 @@
+@import url("fonts.css");
+
+/* Обнуление стилей */
+@import url("reset.css");
+
+body {
+	font-family: "Proxima Nova";
+}
